@@ -1,5 +1,7 @@
 // Car Selector
 
+package Classes;
+
 import java.util.Scanner;
 
 public class CarSelector {	
@@ -16,7 +18,7 @@ public class CarSelector {
 
 
 		while (true) {
-			Scanner typeIn = new Scanner(System.in);
+		Scanner typeIn = new Scanner(System.in);
 			System.out.println("What kind of car do you want?\n"
 					+ "  Jeep\n"
 					+ "  Limousine\n"
@@ -42,5 +44,3 @@ public class CarSelector {
 		}
 
 	}
-
-}
