@@ -1,4 +1,4 @@
-package Classes;
+package RandomStringChooser;
 
 import java.util.ArrayList;
 import java.util.Random;
@@ -22,7 +22,7 @@ public class RandomStringChooser extends test {
 				System.out.print(array[index]);
 				usedIndex.add(index);
 				break;
-			}else if (usedIndex.size() == array.length) {
+			} else if (usedIndex.size() == array.length) {
 				System.out.print("NONE");
 				break;
 			}

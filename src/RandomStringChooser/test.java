@@ -1,4 +1,4 @@
-package Classes;
+package RandomStringChooser;
 
 public class test {
 
