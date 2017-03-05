@@ -1,22 +1,16 @@
 package Scratch;
-import java.util.ArrayList;
-import java.util.List;
+
+import java.*;
 
 
 public class s1 {
 
 	public static void main(String[] args) {
 // **********************************************************
-		int[][] arry = {{1,2,3}, 
-						{1,2,3}, 
-						{1,2,3}};
+		String s = "hello";
+		String s1 = "world";
+		System.out.println(s.compareTo(s1));
 		
-		for (int[] rows : arry) {
-			for (int col : rows) {
-				System.out.print(col + " ");
-			}
-			System.out.println();
-		}
 // **********************************************************
 	}
 	

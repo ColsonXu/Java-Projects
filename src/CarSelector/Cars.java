@@ -1,4 +1,4 @@
-package Classes;
+package CarSelector;
 
 public class Cars extends CarSelector {
 

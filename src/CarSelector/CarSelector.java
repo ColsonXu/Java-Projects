@@ -1,6 +1,6 @@
 // Car Selector
 
-package Classes;
+package CarSelector;
 
 import java.util.Scanner;
 
