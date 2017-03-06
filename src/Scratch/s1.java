@@ -2,6 +2,8 @@ package Scratch;
 
 import java.*;
 
+import Tutorials.printArray;
+
 public class s1 {
 	
 
@@ -10,11 +12,10 @@ public class s1 {
 		
 		
 		
-		int[] arry = {1,1,23,4,234,435,34,634,6,4356,234,91283};
-		System.out.println("Index\tValue");
-		for (int counter = 0; counter < arry.length; counter++) {
-			System.out.println(counter + "\t" + arry[counter]);
-		}
+		int[] arry = new int[7];
+		++arry[3];
+		printArray.print(arry);
+		
 		
 		
 		
