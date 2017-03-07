@@ -4,5 +4,6 @@
 
 - [x] Colson Xu on: 2017-Feb-23
 
+</hr>
 
 Licensed under the [MIT License](LICENSE)
