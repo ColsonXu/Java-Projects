@@ -11,10 +11,9 @@ public class s1 {
 // **********************************************************
 		
 		
-		
-		int[] arry = new int[7];
-		++arry[3];
-		printArray.print(arry);
+		String weather = "sunny";
+		int temp = 24;
+		System.out.printf("Today is a %s day, the temperatur is %d degree.", weather, temp);
 		
 		
 		
