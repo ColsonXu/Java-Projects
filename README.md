@@ -3,3 +3,6 @@
 ### Feel free to comment.
 
 - [x] Colson Xu on: 2017-Feb-23
+
+
+Licensed under the [MIT License](LICENSE)
