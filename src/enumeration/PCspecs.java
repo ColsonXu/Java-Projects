@@ -10,6 +10,13 @@ public enum PCspecs {
 	private final String TYPE;
 	private final int PRICE;
 	
+	
+	/**
+	 * @param nm Name of the PC
+	 * @param tp Type of the PC
+	 * @param prc Price of the PC
+	 */
+	
 	PCspecs(String nm, String tp, int prc) {
 		NAME = nm;
 		TYPE = tp;
