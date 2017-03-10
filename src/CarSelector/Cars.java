@@ -17,6 +17,7 @@ public class Cars extends CarSelector {
 	}
 
 	public String getModel() {
+
 		return model;
 	}
 
