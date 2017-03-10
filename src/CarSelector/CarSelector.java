@@ -4,7 +4,7 @@ package CarSelector;
 
 import java.util.Scanner;
 
-public class CarSelector {	
+public class CarSelector {
 	
 	public static void main(String[] args) {
 		
