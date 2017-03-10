@@ -5,9 +5,7 @@ import java.util.List;
 
 public class RandomLetterChooser extends RandomStringChooser {
 	public RandomLetterChooser(String str) {
-		
-		
-		
+		super(getStringLetters(str));
 	}
 	
 	
@@ -23,6 +21,6 @@ public class RandomLetterChooser extends RandomStringChooser {
 		System.out.println(collected);
 		return collected;
 		*/
-		return str;
+		return null;
 	}
 }
