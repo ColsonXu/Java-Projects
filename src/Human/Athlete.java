@@ -44,8 +44,8 @@ public class Athlete extends Human {
 	}
 	
 
-//The defalt method called whenever the object name is returned
-//or printed without any specific method.
+	//The defalt method called whenever the object name is returned
+	//or printed without any specific method.
 	
 	public String toString() {
 		return "Athlete: " + super.getName() + ", Sport: " + sport;

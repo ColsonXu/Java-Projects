@@ -1,6 +1,6 @@
 package Human;
 
-public class main {
+public class Commander {
 
 	public static void main(String[] args) {
 		Athlete a1 = new Athlete();

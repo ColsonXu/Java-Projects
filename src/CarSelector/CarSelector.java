@@ -43,6 +43,7 @@ public class CarSelector {
 			if (range != 'A' && range != 'B' && range != 'C') {
 				System.out.println("");
 			}
+			rangeIn.close();
 		
 		}
 
