@@ -11,10 +11,9 @@ public class s1 {
 // **********************************************************
 		
 		
-		String weather = "sunny";
-		int temp = 24;
-		System.out.printf("Today is a %s day, the temperatur is %d degree.", weather, temp);
-		
+			Integer num1 = new Integer(34567);
+			System.out.println(num1.valueOf(2));
+
 		
 		
 		

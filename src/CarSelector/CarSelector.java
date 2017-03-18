@@ -41,7 +41,7 @@ public class CarSelector {
 			System.out.println("From A to C as it ranking from high to low. What price range would you preffer?");
 			char range = (char) rangeIn.nextByte();
 			if (range != 'A' && range != 'B' && range != 'C') {
-				System.out.println("");
+				System.out.println();
 			}
 			rangeIn.close();
 		
